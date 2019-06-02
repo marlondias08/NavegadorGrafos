@@ -1,0 +1,13 @@
+c:\users\marlon\documents\visual studio 2015\Projects\TrabalhoPratico01\TrabalhoPratico01\bin\Debug\TrabalhoPratico01.exe.config
+c:\users\marlon\documents\visual studio 2015\Projects\TrabalhoPratico01\TrabalhoPratico01\bin\Debug\TrabalhoPratico01.exe
+c:\users\marlon\documents\visual studio 2015\Projects\TrabalhoPratico01\TrabalhoPratico01\bin\Debug\TrabalhoPratico01.pdb
+c:\users\marlon\documents\visual studio 2015\Projects\TrabalhoPratico01\TrabalhoPratico01\obj\Debug\TrabalhoPratico01.csprojResolveAssemblyReference.cache
+c:\users\marlon\documents\visual studio 2015\Projects\TrabalhoPratico01\TrabalhoPratico01\obj\Debug\TrabalhoPratico01.exe
+c:\users\marlon\documents\visual studio 2015\Projects\TrabalhoPratico01\TrabalhoPratico01\obj\Debug\TrabalhoPratico01.pdb
+C:\Users\Marlon Dias\Downloads\TrabalhoPratico01\TrabalhoPratico01\bin\Debug\TrabalhoPratico01.exe.config
+C:\Users\Marlon Dias\Downloads\TrabalhoPratico01\TrabalhoPratico01\bin\Debug\TrabalhoPratico01.exe
+C:\Users\Marlon Dias\Downloads\TrabalhoPratico01\TrabalhoPratico01\bin\Debug\TrabalhoPratico01.pdb
+C:\Users\Marlon Dias\Downloads\TrabalhoPratico01\TrabalhoPratico01\obj\Debug\TrabalhoPratico01.csprojAssemblyReference.cache
+C:\Users\Marlon Dias\Downloads\TrabalhoPratico01\TrabalhoPratico01\obj\Debug\TrabalhoPratico01.csproj.CoreCompileInputs.cache
+C:\Users\Marlon Dias\Downloads\TrabalhoPratico01\TrabalhoPratico01\obj\Debug\TrabalhoPratico01.exe
+C:\Users\Marlon Dias\Downloads\TrabalhoPratico01\TrabalhoPratico01\obj\Debug\TrabalhoPratico01.pdb
